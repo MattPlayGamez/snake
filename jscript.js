@@ -4,7 +4,6 @@ const SQUARE_OF_GAME_PIXEL_COUNT = Math.pow(GAME_PIXEL_COUNT, 2);
 
 let totalFoodAte = 0;
 let totalDistanceTravelled = 0;
-let name = prompt('What is your name')
 
 /// THE GAME BOARD:
 const gameContainer = document.getElementById("gameContainer");
