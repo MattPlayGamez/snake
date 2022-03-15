@@ -1,1 +1,1 @@
-Play the game for fun:  Snake
+Play the game for fun:  Snake / snake.smarthys.tk
